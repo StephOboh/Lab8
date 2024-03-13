@@ -1,3 +1,11 @@
+/*
+Name: apiService.js
+Assignment: Lab 8, Exercise C
+Author(s): Sarah Yip, Stephenie Oboh
+Submission: March 13, 2024
+Description: api service
+*/
+
 import axios from 'axios';
 
 const BASE_URL = 'https://dummyjson.com/products';

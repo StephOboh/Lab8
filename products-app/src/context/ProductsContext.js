@@ -1,3 +1,11 @@
+/*
+Name: ProductsContext.js
+Assignment: Lab 8, Exercise C
+Author(s): Sarah Yip, Stephenie Oboh
+Submission: March 13, 2024
+Description: product information
+*/
+
 import React, { createContext, useContext, useState } from 'react';
 
 const ProductsContext = createContext();

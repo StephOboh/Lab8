@@ -1,3 +1,11 @@
+/*
+Name: HomePage.js
+Assignment: Lab 8, Exercise C
+Author(s): Sarah Yip, Stephenie Oboh
+Submission: March 13, 2024
+Description: Homepage
+*/
+
 import React from 'react';
 
 // using JSON for styling

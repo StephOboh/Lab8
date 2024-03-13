@@ -1,3 +1,11 @@
+/*
+Name: NotFoundPagee.js
+Assignment: Lab 8, Exercise C
+Author(s): Sarah Yip, Stephenie Oboh
+Submission: March 13, 2024
+Description: Not found page
+*/
+
 import React from 'react';
 
 const NotFoundPage = () => {
